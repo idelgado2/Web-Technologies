@@ -1,0 +1,9 @@
+<roadmap>
+<heading>Ajax Radmap</heading>
+<items>
+    <item>Create XHR oject</item>
+    <item>Handle the "onreadystatechange" event</item>
+    <item>Open the request</item>
+    <item>Send the request</item>
+</items>
+</roadmap>
